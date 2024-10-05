@@ -37,6 +37,6 @@ document.querySelectorAll('nav a').forEach(anchor => {
   
   // Dynamic year in footer
   const footerYear = new Date().getFullYear();
-  document.querySelector('footer p').innerHTML = `© ${footerYear} My Portfolio | Created by [Your Name]`;
+  document.querySelector('footer p').innerHTML = `© ${footerYear} My Portfolio | Created by [OWUSU CHIEF]`;
   
   
